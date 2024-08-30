@@ -1,0 +1,8 @@
+hospitaladmissionsystem.MalePatient
+hospitaladmissionsystem.Patient
+MalePatient
+Patient
+FemalePatient
+hospitaladmissionsystem.HospitalAdmissionSystem
+HospitalAdmissionSystem
+hospitaladmissionsystem.FemalePatient
